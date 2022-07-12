@@ -1,4 +1,4 @@
-const numbers = {
+const valueOfNumbers = {
     a: 1,
     b: 2,
     c: 3,
@@ -27,4 +27,4 @@ const numbers = {
     z: 8
 };
 
-export default numbers;
+export default valueOfNumbers;
